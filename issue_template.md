@@ -1,24 +1,33 @@
-## Descripción
+# Descripción
 Descripción breve del error
 
-# Sistema Operativo
-Plataforma/plataformas donde ocurrión el error, Windows, Linux, MAC, etc.
+## Sistema Operativo
+- [ ] Windows
+- [ ] MAC
+- [ ] Linux
+- [ ] Ubuntu
+- [ ] Todos
 
-# Navegador
-Navegador/ navegadores donde ocurre el error
+## Navegador
+- [ ] Chrome
+- [ ] Firefox
+- [ ] Explorer
+- [ ] Edge
+- [ ] Safari 
+- [ ] Todos
 
-## Pasos para Reproducir
+# Pasos para Reproducir
 1. paso 1
 2. paso 2
 
-## Resultado Esperado
+# Resultado Esperado
 Descripción del resultado esperado
 
-## Resultado Actual
+# Resultado Actual
 Descripción del resultado actual
 
-# Capturas de pantalla
+## Capturas de pantalla
 En el caso de ser necesaria evidencia, ingresar las catursa de pantalla
 
-# Notas
+## Notas
 Notas adicionales
