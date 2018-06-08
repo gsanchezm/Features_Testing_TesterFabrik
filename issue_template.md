@@ -27,7 +27,7 @@ Descripción del resultado esperado
 Descripción del resultado actual
 
 ## Capturas de pantalla
-En el caso de ser necesaria evidencia, ingresar las catursa de pantalla
+En el caso de ser necesaria evidencia, ingresar las captura de pantalla
 
 ## Notas
 Notas adicionales
